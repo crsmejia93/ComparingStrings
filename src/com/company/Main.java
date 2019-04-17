@@ -9,7 +9,6 @@ public class Main {
 
         System.out.println("How is the weather?");
         String answer = sc.nextLine();
-
         if (answer.equalsIgnoreCase("rainy")) {
             System.out.println("Take your umbrella!");
         }
